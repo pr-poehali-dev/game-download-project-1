@@ -19,7 +19,7 @@ const popularGames = [
     rating: 4.9,
     downloads: '15.8M',
     image: 'img/a4ed50d1-0c03-40c7-8fda-6e37f89ad324.jpg',
-    price: '2599₽',
+    price: 'Бесплатно',
     description: 'Создавай, исследуй и выживай в кубическом мире'
   },
   {
@@ -74,7 +74,7 @@ const popularGames = [
     rating: 4.7,
     downloads: '1.8M',
     image: 'img/593d8e03-9383-41e3-bda1-065097e6dad7.jpg',
-    price: '1299₽',
+    price: 'Бесплатно',
     description: 'Неоновые гонки по ночному городу'
   }
 ];
