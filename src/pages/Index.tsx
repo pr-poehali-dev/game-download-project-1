@@ -13,6 +13,39 @@ const gameGenres = [
 const popularGames = [
   {
     id: 1,
+    title: 'Minecraft',
+    genre: 'Симулятор',
+    size: '1.2 GB',
+    rating: 4.9,
+    downloads: '15.8M',
+    image: 'img/a4ed50d1-0c03-40c7-8fda-6e37f89ad324.jpg',
+    price: '2599₽',
+    description: 'Создавай, исследуй и выживай в кубическом мире'
+  },
+  {
+    id: 2,
+    title: 'Roblox',
+    genre: 'Симулятор',
+    size: '2.8 GB',
+    rating: 4.7,
+    downloads: '12.3M',
+    image: 'img/1b843979-568c-4521-8b92-8459c92e7296.jpg',
+    price: 'Бесплатно',
+    description: 'Миллионы игр от сообщества игроков'
+  },
+  {
+    id: 3,
+    title: 'Subway Surfers',
+    genre: 'Экшн',
+    size: '180 MB',
+    rating: 4.8,
+    downloads: '25.5M',
+    image: 'img/9551a1a5-a35f-48db-aec1-87d2f17b7f11.jpg',
+    price: 'Бесплатно',
+    description: 'Беги по рельсам и собирай монеты'
+  },
+  {
+    id: 4,
     title: 'CyberStrike 2077',
     genre: 'Экшн',
     size: '45.2 GB',
@@ -23,7 +56,7 @@ const popularGames = [
     description: 'Футуристический шутер в мире киберпанка'
   },
   {
-    id: 2,
+    id: 5,
     title: 'Battle Royale Elite',
     genre: 'Экшн',
     size: '32.1 GB',
@@ -34,7 +67,7 @@ const popularGames = [
     description: 'Королевская битва нового поколения'
   },
   {
-    id: 3,
+    id: 6,
     title: 'Neon Racing',
     genre: 'Гонки',
     size: '28.5 GB',
